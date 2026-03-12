@@ -114,8 +114,8 @@ This project is considered **completed** and is maintained for portfolio demonst
 ## Author
 
 **Danil Klimov**
-* GitHub: [@saakivnzechad](https://github.com/saakivnzechad)
-* Telegram: [@sarthriles](https://t.me/sarthriles)
+* GitHub: [@lyoraeth](https://github.com/lyoraeth)
+* Telegram: [@lyoraeth_art](https://t.me/lyoraeth_art)
 
 ---
 
